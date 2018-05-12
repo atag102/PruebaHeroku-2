@@ -1,0 +1,8 @@
+cdbm\ucab\ingsw\repository\CustomerRepository.class
+cdbm\ucab\ingsw\response\CustomerResponse.class
+cdbm\ucab\ingsw\controller\CustomerController.class
+cdbm\ucab\ingsw\command\CustomerSignUpCommand.class
+cdbm\ucab\ingsw\command\ValidationRules.class
+cdbm\ucab\ingsw\service\CustomerService.class
+cdbm\ucab\ingsw\MainApplication.class
+cdbm\ucab\ingsw\model\Customer.class
